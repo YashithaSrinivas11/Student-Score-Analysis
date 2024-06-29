@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/16039838/README.md)# Student-Score-Analysis
-[Uploading README.md…](
+# Student-Exam-Score-Analysis
 Educational institutions collect data on student performance, including factors like demographics, study habits, and past grades. Using this data, they analyze patterns and trends to gain insights. For example, they might discover that students who attend more classes tend to score better or that certain subjects are more challenging for specific groups. This analysis helps educators tailor teaching methods and predict student outcomes.
 
 
